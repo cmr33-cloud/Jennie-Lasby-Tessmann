@@ -1,0 +1,1 @@
+head.addEventListener("click", () => {body.style = "background-color: red"});
